@@ -1,0 +1,7 @@
+1 - Date citite
+2 - emotie
+3 - mfcc
+4 - mfccTotal
+5 - filtru
+6 - date estimate
+7 - reziduu
